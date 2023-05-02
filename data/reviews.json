@@ -2,70 +2,70 @@
    {
       "id": 1,
       "name": "John Smith",
-      "image": "https://example.com/customer1_image.jpg",
+      "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGVyc29ufGVufDB8fDB8fA%3D%3D&w=1000&q=80",
       "rating": 4.5,
       "review": "Bengali Bites offers a delightful experience for Bengali food enthusiasts. The aroma of their dishes is captivating, and the flavors are truly authentic. Don't miss their mouth-watering macher jhol (fish curry) and mishti pulao (sweet rice). The staff is friendly and the prices are reasonable. Highly recommended!"
    },
    {
       "id": 2,
       "name": "Emily Johnson",
-      "image": "https://example.com/customer2_image.jpg",
+      "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGVyc29ufGVufDB8fDB8fA%3D%3D&w=1000&q=80",
       "rating": 5,
       "review": "Spice of Bengal is a hidden gem for Bengali cuisine lovers. The food here is a burst of flavors that will transport you to Kolkata. Their shorshe ilish (hilsa fish in mustard sauce) and doi maach (fish in yogurt curry) are absolutely divine. The ambiance is cozy and the service is top-notch. Make sure to try their delectable rasgullas for dessert!"
    },
    {
       "id": 3,
       "name": "Michael Brown",
-      "image": "https://example.com/customer3_image.jpg",
+      "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGVyc29ufGVufDB8fDB8fA%3D%3D&w=1000&q=80",
       "rating": 4,
       "review": "Kolkata Kitchen is a must-visit for anyone craving authentic Bengali delicacies. Their kathi rolls are mouthwatering and packed with flavors. The biryani is fragrant and the portions are generous. The restaurant has a pleasant atmosphere, and the staff is attentive and friendly. You won't be disappointed!"
    },
    {
       "id": 4,
       "name": "Sophia Davis",
-      "image": "https://example.com/customer4_image.jpg",
+      "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGVyc29ufGVufDB8fDB8fA%3D%3D&w=1000&q=80",
       "rating": 4.8,
       "review": "Bengal Spice is a fantastic restaurant that truly captures the essence of Bengali cuisine. The food is cooked to perfection, and the spices used are well-balanced. Their mangshor jhol (mutton curry) and aloo posto (potato in poppy seed paste) are must-try dishes. The staff is courteous, and the prices are reasonable. Highly recommended!"
    },
    {
       "id": 5,
       "name": "Jacob Wilson",
-      "image": "https://example.com/customer5_image.jpg",
+      "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGVyc29ufGVufDB8fDB8fA%3D%3D&w=1000&q=80",
       "rating": 4.2,
       "review": "Taste of Bengal is a delightful Bengali food restaurant that never fails to impress. Their fish cutlet and chingri malai curry (prawns in creamy coconut sauce) are absolutely mouthwatering. The restaurant has a cozy and welcoming ambiance, and the staff is attentive and knowledgeable about the menu. A true culinary gem!"
    },
    {
       "id": 6,
       "name": "Olivia Martin",
-      "image": "https://example.com/customer6_image.jpg",
+      "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGVyc29ufGVufDB8fDB8fA%3D%3D&w=1000&q=80",
       "rating": 4.6,
       "review": "Bengali Treats lives up to its name by offering a truly delightful dining experience. The food is prepared with love and care, and the flavors are simply amazing. Their roshogollas (spongy cottage cheese balls in syrup) are heavenly. The restaurant has a warm and inviting atmosphere, and the staff is friendly and accommodating."
    },
    {
       "id": 7,
       "name": "William Thompson",
-      "image": "https://example.com/customer7_image.jpg",
+      "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGVyc29ufGVufDB8fDB8fA%3D%3D&w=1000&q=80",
       "rating": 4.7,
       "review": "Kolkata Delights is a gem for Bengali food lovers. The restaurant serves authentic dishes that are full of flavor. Their kati rolls and jhalmuri (spicy puffed rice) are a must-try. The staff is friendly and attentive, and the prices are reasonable. A great place to experience the taste of Kolkata!"
    },
    {
       "id": 8,
       "name": "Ava Garcia",
-      "image": "https://example.com/customer8_image.jpg",
+      "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGVyc29ufGVufDB8fDB8fA%3D%3D&w=1000&q=80",
       "rating": 4.9,
       "review": "Bengali Spice Hub is a fantastic restaurant that offers a wide range of authentic Bengali dishes. Their macher paturi (fish wrapped in banana leaf) and cholar dal (Bengal gram dal) are incredibly flavorful. The restaurant has a cozy and welcoming ambiance, and the staff provides excellent service. A must-visit for Bengali cuisine enthusiasts!"
    },
    {
       "id": 9,
       "name": "James Moore",
-      "image": "https://example.com/customer9_image.jpg",
+      "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGVyc29ufGVufDB8fDB8fA%3D%3D&w=1000&q=80",
       "rating": 4.3,
       "review": "Flavors of Bengal is a hidden gem tucked away in the heart of the city. The restaurant serves delectable Bengali delicacies that are made with authentic spices and ingredients. Their shorshe bata ilish (hilsa fish in mustard paste) and doi macher curry (fish in yogurt gravy) are absolute highlights. The staff is friendly, and the prices are reasonable. Highly recommended!"
    },
    {
       "id": 10,
       "name": "Mia Anderson",
-      "image": "https://example.com/customer10_image.jpg",
+      "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGVyc29ufGVufDB8fDB8fA%3D%3D&w=1000&q=80",
       "rating": 4.5,
       "review": "Bengali Food Haven is a paradise for Bengali food lovers. The restaurant offers a wide variety of traditional dishes that are rich in flavors. Their kosha mangsho (slow-cooked mutton) and shorshe bata bhetki (barramundi fish in mustard paste) are simply divine. The ambiance is cozy, and the service is excellent. Don't miss out on this culinary gem!"
    }
