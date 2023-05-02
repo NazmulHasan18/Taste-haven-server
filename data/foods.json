@@ -6,7 +6,7 @@
       "category": "Fish",
       "price": 12.99,
       "rating": 4.5,
-      "image": "hilsa_fish_curry.jpg"
+      "image": "https://www.bongcravings.com/wp-content/uploads/2017/01/photo-2B1.jpg"
    },
    {
       "id": 2,
@@ -15,7 +15,7 @@
       "category": "Fish",
       "price": 14.99,
       "rating": 4.8,
-      "image": "shorshe_ilish.jpg"
+      "image": "https://www.bongcravings.com/wp-content/uploads/2017/01/photo-2B1.jpg"
    },
    {
       "id": 3,
@@ -24,7 +24,7 @@
       "category": "Seafood",
       "price": 16.99,
       "rating": 4.7,
-      "image": "chingri_macher_malai_curry.jpg"
+      "image": "https://www.bongcravings.com/wp-content/uploads/2017/01/photo-2B1.jpg"
    },
    {
       "id": 4,
@@ -33,7 +33,7 @@
       "category": "Fish",
       "price": 11.99,
       "rating": 4.6,
-      "image": "shorshe_bata_diye_macher_jhal.jpg"
+      "image": "https://www.bongcravings.com/wp-content/uploads/2017/01/photo-2B1.jpg"
    },
    {
       "id": 5,
@@ -42,7 +42,7 @@
       "category": "Vegetarian",
       "price": 9.99,
       "rating": 4.2,
-      "image": "aloo_posto.jpg"
+      "image": "https://www.bongcravings.com/wp-content/uploads/2017/01/photo-2B1.jpg"
    },
    {
       "id": 6,
@@ -51,7 +51,7 @@
       "category": "Fish",
       "price": 10.99,
       "rating": 4.4,
-      "image": "macher_matha_diye_moong_dal.jpg"
+      "image": "https://www.bongcravings.com/wp-content/uploads/2017/01/photo-2B1.jpg"
    },
    {
       "id": 7,
@@ -60,7 +60,7 @@
       "category": "Non-vegetarian",
       "price": 18.99,
       "rating": 4.9,
-      "image": "kosha_mangsho.jpg"
+      "image": "https://www.bongcravings.com/wp-content/uploads/2017/01/photo-2B1.jpg"
    },
    {
       "id": 8,
@@ -69,7 +69,7 @@
       "category": "Fish",
       "price": 13.99,
       "rating": 4.7,
-      "image": "shorshe_maach_bhapa.jpg"
+      "image": "https://www.bongcravings.com/wp-content/uploads/2017/01/photo-2B1.jpg"
    },
    {
       "id": 9,
@@ -78,7 +78,7 @@
       "category": "Vegetarian",
       "price": 7.99,
       "rating": 4.5,
-      "image": "luchi_with_cholar_dal.jpg"
+      "image": "https://www.bongcravings.com/wp-content/uploads/2017/01/photo-2B1.jpg"
    },
    {
       "id": 10,
@@ -87,7 +87,7 @@
       "category": "Dessert",
       "price": 6.99,
       "rating": 4.3,
-      "image": "bhapa_doi.jpg"
+      "image": "https://www.bongcravings.com/wp-content/uploads/2017/01/photo-2B1.jpg"
    },
    {
       "id": 11,
@@ -96,7 +96,7 @@
       "category": "Fish",
       "price": 15.99,
       "rating": 4.8,
-      "image": "shorshe_ilish_biryani.jpg"
+      "image": "https://www.bongcravings.com/wp-content/uploads/2017/01/photo-2B1.jpg"
    },
    {
       "id": 12,
@@ -105,7 +105,7 @@
       "category": "Dessert",
       "price": 5.99,
       "rating": 4.6,
-      "image": "misti_doi.jpg"
+      "image": "https://www.bongcravings.com/wp-content/uploads/2017/01/photo-2B1.jpg"
    },
    {
       "id": 13,
@@ -114,7 +114,7 @@
       "category": "Fish",
       "price": 16.99,
       "rating": 4.7,
-      "image": "shorshe_bata_diye_bhetki_paturi.jpg"
+      "image": "https://www.bongcravings.com/wp-content/uploads/2017/01/photo-2B1.jpg"
    },
    {
       "id": 14,
@@ -123,7 +123,7 @@
       "category": "Non-vegetarian",
       "price": 17.99,
       "rating": 4.5,
-      "image": "kolkata_biryani.jpg"
+      "image": "https://www.bongcravings.com/wp-content/uploads/2017/01/photo-2B1.jpg"
    },
    {
       "id": 15,
@@ -132,7 +132,7 @@
       "category": "Fish",
       "price": 11.99,
       "rating": 4.4,
-      "image": "shorshe_pabda.jpg"
+      "image": "https://www.bongcravings.com/wp-content/uploads/2017/01/photo-2B1.jpg"
    },
    {
       "id": 16,
@@ -141,7 +141,7 @@
       "category": "Vegetarian",
       "price": 10.99,
       "rating": 4.2,
-      "image": "dhokar_dalna.jpg"
+      "image": "https://www.bongcravings.com/wp-content/uploads/2017/01/photo-2B1.jpg"
    },
    {
       "id": 17,
@@ -150,7 +150,7 @@
       "category": "Non-vegetarian",
       "price": 19.99,
       "rating": 4.9,
-      "image": "mutton_rezala.jpg"
+      "image": "https://www.bongcravings.com/wp-content/uploads/2017/01/photo-2B1.jpg"
    },
    {
       "id": 18,
@@ -159,7 +159,7 @@
       "category": "Vegetarian",
       "price": 8.99,
       "rating": 4.6,
-      "image": "kanchkolar_kofta_curry.jpg"
+      "image": "https://www.bongcravings.com/wp-content/uploads/2017/01/photo-2B1.jpg"
    },
    {
       "id": 19,
@@ -168,7 +168,7 @@
       "category": "Fish",
       "price": 12.99,
       "rating": 4.3,
-      "image": "macher_jhol.jpg"
+      "image": "https://www.bongcravings.com/wp-content/uploads/2017/01/photo-2B1.jpg"
    },
    {
       "id": 20,
@@ -177,6 +177,6 @@
       "category": "Vegetarian",
       "price": 9.99,
       "rating": 4.5,
-      "image": "mishti_pulao.jpg"
+      "image": "https://www.bongcravings.com/wp-content/uploads/2017/01/photo-2B1.jpg"
    }
 ]

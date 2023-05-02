@@ -334,5 +334,41 @@
       ],
       "bio": "Chef I is a highly accomplished chef specializing in Bangladeshi cuisine. With 12 years of experience, Chef I creates exceptional dishes like Bhuna Khichuri, Shorshe Chingri, and Mishti Doi. Their culinary prowess and deep understanding of traditional Bangladeshi flavors result in dishes that are a delight to the senses.",
       "likes": 5600
+   },
+   {
+      "id": 10,
+      "name": "Abul Kashem",
+      "specialty": "Bangladeshi Cuisine",
+      "experience": "12 years",
+      "chefPosition": "Executive Chef",
+      "image": "https://i.ibb.co/M6sTyd1/master-chef.jpg",
+      "foodItems": [
+         {
+            "id": 28,
+            "name": "Bhuna Khichuri",
+            "price": 220,
+            "description": "A hearty and flavorful combination of rice, lentils, and spices",
+            "requiredItems": ["Rice", "Lentils", "Onions", "Ginger-garlic paste", "Spices"],
+            "image": "bhuna_khichuri.jpg"
+         },
+         {
+            "id": 29,
+            "name": "Shorshe Chingri",
+            "price": 280,
+            "description": "Prawns cooked in a tangy mustard sauce",
+            "requiredItems": ["Prawns", "Mustard seeds", "Mustard oil", "Turmeric", "Green chilies"],
+            "image": "shorshe_chingri.jpg"
+         },
+         {
+            "id": 30,
+            "name": "Mishti Doi",
+            "price": 120,
+            "description": "Sweet and creamy yogurt-based dessert",
+            "requiredItems": ["Yogurt", "Sugar", "Cardamom", "Nuts"],
+            "image": "mishti_doi.jpg"
+         }
+      ],
+      "bio": "Chef I is a highly accomplished chef specializing in Bangladeshi cuisine. With 12 years of experience, Chef I creates exceptional dishes like Bhuna Khichuri, Shorshe Chingri, and Mishti Doi. Their culinary prowess and deep understanding of traditional Bangladeshi flavors result in dishes that are a delight to the senses.",
+      "likes": 5600
    }
 ]
