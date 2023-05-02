@@ -1,0 +1,338 @@
+[
+   {
+      "id": 1,
+      "name": "Muhammad Rafi",
+      "specialty": "Bangladeshi Cuisine",
+      "experience": "12 years",
+      "chefPosition": "Executive Chef",
+      "image": "https://nationaltoday.com/wp-content/uploads/2021/07/shutterstock_1518533924-min.jpg",
+      "foodItems": [
+         {
+            "id": 1,
+            "name": "Hilsha Fish Curry",
+            "price": 250,
+            "description": "Traditional Bangladeshi curry made with Hilsha fish",
+            "requiredItems": [
+               "Hilsha fish",
+               "Mustard paste",
+               "Turmeric powder",
+               "Green chilies",
+               "Mustard oil"
+            ],
+            "image": "hilsha_fish_curry.jpg"
+         },
+         {
+            "id": 2,
+            "name": "Beef Bhuna",
+            "price": 180,
+            "description": "Slow-cooked beef in a thick, spicy gravy",
+            "requiredItems": ["Beef", "Onions", "Tomatoes", "Ginger-garlic paste", "Spices"],
+            "image": "beef_bhuna.jpg"
+         },
+         {
+            "id": 3,
+            "name": "Panta Bhat with Hilsha Fry",
+            "price": 200,
+            "description": "Fermented rice served with fried Hilsha fish",
+            "requiredItems": ["Fermented rice", "Hilsha fish", "Green chilies", "Onions", "Lemon"],
+            "image": "panta_hilsha.jpg"
+         }
+      ],
+      "bio": "Chef A is a highly skilled chef specializing in Bangladeshi cuisine. With 12 years of experience, Chef A has perfected the art of preparing authentic dishes such as Hilsha Fish Curry, Beef Bhuna, and Panta Bhat with Hilsha Fry. Their dedication to preserving the traditional flavors of Bangladeshi cuisine is unmatched.",
+      "likes": 5000
+   },
+   {
+      "id": 2,
+      "name": "Ahmad Bari",
+      "specialty": "Bangladeshi Cuisine",
+      "experience": "8 years",
+      "chefPosition": "Sous Chef",
+      "image": "https://nationaltoday.com/wp-content/uploads/2021/07/shutterstock_1518533924-min.jpg",
+      "foodItems": [
+         {
+            "id": 4,
+            "name": "Kacchi Biriyani",
+            "price": 300,
+            "description": "Aromatic rice and tender meat slow-cooked together",
+            "requiredItems": ["Basmati rice", "Mutton", "Spices", "Onions", "Yogurt"],
+            "image": "kacchi_biriyani.jpg"
+         },
+         {
+            "id": 5,
+            "name": "Shorshe Ilish",
+            "price": 280,
+            "description": "Hilsha fish cooked in a tangy mustard sauce",
+            "requiredItems": [
+               "Hilsha fish",
+               "Mustard paste",
+               "Turmeric powder",
+               "Green chilies",
+               "Mustard oil"
+            ],
+            "image": "shorshe_ilish.jpg"
+         },
+         {
+            "id": 6,
+            "name": "Chingri Malai Curry",
+            "price": 320,
+            "description": "Creamy coconut milk-based curry with succulent prawns",
+            "requiredItems": ["Prawns", "Coconut milk", "Spices", "Onions", "Ginger", "Garlic"],
+            "image": "chingri_malai_curry.jpg"
+         }
+      ],
+      "bio": "Chef B is a talented chef with 8 years of experience in Bangladeshi cuisine. Known for their expertise in preparing flavorful dishes like Kacchi Biriyani, Shorshe Ilish, and Chingri Malai Curry, Chef B brings traditional Bangladeshi flavors to life. Their passion for cooking and attention to detail make every dish a memorable experience.",
+      "likes": 4500
+   },
+   {
+      "id": 3,
+      "name": "Abdul Barek",
+      "specialty": "Bangladeshi Cuisine",
+      "experience": "10 years",
+      "chefPosition": "Head Chef",
+      "image": "https://nationaltoday.com/wp-content/uploads/2021/07/shutterstock_1518533924-min.jpg",
+      "foodItems": [
+         {
+            "id": 7,
+            "name": "Bhuna Khichuri",
+            "price": 180,
+            "description": "Aromatic rice and lentil dish cooked with spices",
+            "requiredItems": ["Rice", "Lentils", "Onions", "Ghee", "Spices"],
+            "image": "bhuna_khichuri.jpg"
+         },
+         {
+            "id": 8,
+            "name": "Korma",
+            "price": 200,
+            "description": "Rich and creamy meat curry with nuts and yogurt",
+            "requiredItems": ["Meat (chicken or mutton)", "Yogurt", "Onions", "Cashews", "Spices"],
+            "image": "korma.jpg"
+         },
+         {
+            "id": 9,
+            "name": "Mishti Doi",
+            "price": 120,
+            "description": "Sweet and creamy yogurt-based dessert",
+            "requiredItems": ["Yogurt", "Sugar", "Cardamom", "Nuts"],
+            "image": "mishti_doi.jpg"
+         }
+      ],
+      "bio": "Chef C is a skilled chef specializing in Bangladeshi cuisine. With 10 years of experience, Chef C brings the authentic flavors of Bhuna Khichuri, Korma, and Mishti Doi to the table. Their dedication to using traditional cooking techniques and high-quality ingredients results in delicious and satisfying dishes.",
+      "likes": 6000
+   },
+   {
+      "id": 4,
+      "name": "Md Mahin Mia",
+      "specialty": "Bangladeshi Cuisine",
+      "experience": "6 years",
+      "chefPosition": "Chef de Partie",
+      "image": "https://nationaltoday.com/wp-content/uploads/2021/07/shutterstock_1518533924-min.jpg",
+      "foodItems": [
+         {
+            "id": 10,
+            "name": "Shami Kebab",
+            "price": 150,
+            "description": "Minced meat and lentil patties seasoned with spices",
+            "requiredItems": ["Minced meat", "Chana dal", "Onions", "Ginger-garlic paste", "Spices"],
+            "image": "shami_kebab.jpg"
+         },
+         {
+            "id": 11,
+            "name": "Mutton Rezala",
+            "price": 250,
+            "description": "Mutton curry cooked in a rich and aromatic white gravy",
+            "requiredItems": ["Mutton", "Yogurt", "Onions", "Cashews", "Spices"],
+            "image": "mutton_rezala.jpg"
+         },
+         {
+            "id": 12,
+            "name": "Rasmalai",
+            "price": 120,
+            "description": "Soft cottage cheese dumplings soaked in sweetened milk",
+            "requiredItems": ["Cottage cheese", "Milk", "Sugar", "Cardamom", "Saffron"],
+            "image": "rasmalai.jpg"
+         }
+      ],
+      "bio": "Chef D is a talented chef specializing in Bangladeshi cuisine. With 6 years of experience, Chef D excels in preparing flavorful dishes like Shami Kebab, Mutton Rezala, and Rasmalai. Their passion for cooking and attention to detail result in dishes that are both visually appealing and delectable.",
+      "likes": 3800
+   },
+   {
+      "id": 5,
+      "name": "Abu Haydar Rony",
+      "specialty": "Bangladeshi Cuisine",
+      "experience": "9 years",
+      "chefPosition": "Sous Chef",
+      "image": "https://nationaltoday.com/wp-content/uploads/2021/07/shutterstock_1518533924-min.jpg",
+      "foodItems": [
+         {
+            "id": 13,
+            "name": "Bengali Fish Curry",
+            "price": 220,
+            "description": "Spicy fish curry with a tangy tamarind flavor",
+            "requiredItems": ["Fish", "Tamarind paste", "Onions", "Tomatoes", "Spices"],
+            "image": "bengali_fish_curry.jpg"
+         },
+         {
+            "id": 14,
+            "name": "Aloo Posto",
+            "price": 120,
+            "description": "Potatoes cooked with poppy seed paste and spices",
+            "requiredItems": ["Potatoes", "Poppy seeds", "Mustard oil", "Spices"],
+            "image": "aloo_posto.jpg"
+         },
+         {
+            "id": 15,
+            "name": "Chapati",
+            "price": 50,
+            "description": "Thin unleavened flatbread made with wheat flour",
+            "requiredItems": ["Wheat flour", "Water", "Salt", "Ghee"],
+            "image": "chapati.jpg"
+         }
+      ],
+      "bio": "Chef E is a skilled chef specializing in Bangladeshi cuisine. With 9 years of experience, Chef E prepares delicious dishes like Bengali Fish Curry, Aloo Posto, and Chapati. Their passion for traditional Bangladeshi flavors and dedication to culinary excellence shine through in every dish they create.",
+      "likes": 4200
+   },
+   {
+      "id": 6,
+      "name": "Muhammad Iqbal",
+      "specialty": "Bangladeshi Cuisine",
+      "experience": "7 years",
+      "chefPosition": "Chef de Cuisine",
+      "image": "https://nationaltoday.com/wp-content/uploads/2021/07/shutterstock_1518533924-min.jpg",
+      "foodItems": [
+         {
+            "id": 16,
+            "name": "Mutton Kacchi",
+            "price": 300,
+            "description": "Tender mutton cooked with aromatic spices and basmati rice",
+            "requiredItems": ["Basmati rice", "Mutton", "Spices", "Onions", "Yogurt"],
+            "image": "mutton_kacchi.jpg"
+         },
+         {
+            "id": 17,
+            "name": "Chitol Maacher Muitha",
+            "price": 240,
+            "description": "Fish dumplings in a flavorful gravy",
+            "requiredItems": ["Chitol fish", "Onions", "Ginger-garlic paste", "Spices", "Mustard oil"],
+            "image": "chitol_muitha.jpg"
+         },
+         {
+            "id": 18,
+            "name": "Payesh",
+            "price": 100,
+            "description": "Creamy rice pudding with a hint of cardamom",
+            "requiredItems": ["Rice", "Milk", "Sugar", "Cardamom", "Nuts"],
+            "image": "payesh.jpg"
+         }
+      ],
+      "bio": "Chef F is an experienced chef specializing in Bangladeshi cuisine. With 7 years of experience, Chef F creates exquisite dishes like Mutton Kacchi, Chitol Maacher Muitha, and Payesh. Their attention to detail and passion for culinary artistry make them a valuable asset to any kitchen.",
+      "likes": 3200
+   },
+   {
+      "id": 7,
+      "name": "Abul Fazar",
+      "specialty": "Bangladeshi Cuisine",
+      "experience": "11 years",
+      "chefPosition": "Executive Sous Chef",
+      "image": "https://nationaltoday.com/wp-content/uploads/2021/07/shutterstock_1518533924-min.jpg",
+      "foodItems": [
+         {
+            "id": 19,
+            "name": "Morog Polao",
+            "price": 280,
+            "description": "Aromatic rice dish with tender chicken and a blend of spices",
+            "requiredItems": ["Basmati rice", "Chicken", "Spices", "Onions", "Ghee"],
+            "image": "morog_polao.jpg"
+         },
+         {
+            "id": 20,
+            "name": "Shorshe Ilish",
+            "price": 260,
+            "description": "Hilsa fish cooked in a mustard seed paste",
+            "requiredItems": ["Hilsa fish", "Mustard seeds", "Mustard oil", "Turmeric", "Green chilies"],
+            "image": "shorshe_ilish.jpg"
+         },
+         {
+            "id": 21,
+            "name": "Rosogolla",
+            "price": 80,
+            "description": "Soft and spongy cottage cheese balls soaked in sugar syrup",
+            "requiredItems": ["Cottage cheese", "Sugar", "Cardamom", "Rose water"],
+            "image": "rosogolla.jpg"
+         }
+      ],
+      "bio": "Chef G is a highly skilled chef specializing in Bangladeshi cuisine. With 11 years of experience, Chef G creates extraordinary dishes like Morog Polao, Shorshe Ilish, and Rosogolla. Their culinary expertise and creative flair ensure that every dish is a delightful combination of flavors and textures.",
+      "likes": 5000
+   },
+   {
+      "id": 8,
+      "name": "Imatiaj Ali",
+      "specialty": "Bangladeshi Cuisine",
+      "experience": "8 years",
+      "chefPosition": "Sous Chef",
+      "image": "https://nationaltoday.com/wp-content/uploads/2021/07/shutterstock_1518533924-min.jpg",
+      "foodItems": [
+         {
+            "id": 22,
+            "name": "Dhaka Biriyani",
+            "price": 320,
+            "description": "Flavorful rice dish with tender meat, aromatic spices, and potatoes",
+            "requiredItems": ["Basmati rice", "Meat (chicken or mutton)", "Spices", "Potatoes", "Onions"],
+            "image": "dhaka_biriyani.jpg"
+         },
+         {
+            "id": 23,
+            "name": "Chingri Bhapa",
+            "price": 280,
+            "description": "Steamed prawns cooked in a spicy coconut mustard sauce",
+            "requiredItems": ["Prawns", "Coconut", "Mustard seeds", "Green chilies", "Spices"],
+            "image": "chingri_bhapa.jpg"
+         },
+         {
+            "id": 24,
+            "name": "Lassi",
+            "price": 100,
+            "description": "Refreshing yogurt-based drink with flavors of cardamom and saffron",
+            "requiredItems": ["Yogurt", "Sugar", "Cardamom", "Saffron", "Nuts"],
+            "image": "lassi.jpg"
+         }
+      ],
+      "bio": "Chef H is a talented chef specializing in Bangladeshi cuisine. With 8 years of experience, Chef H crafts exquisite dishes like Dhaka Biriyani, Chingri Bhapa, and Lassi. Their culinary finesse and dedication to authentic flavors make them a valuable addition to any kitchen.",
+      "likes": 4400
+   },
+   {
+      "id": 9,
+      "name": "Nazmul Hasan",
+      "specialty": "Bangladeshi Cuisine",
+      "experience": "12 years",
+      "chefPosition": "Executive Chef",
+      "image": "https://i.ibb.co/M6sTyd1/master-chef.jpg",
+      "foodItems": [
+         {
+            "id": 25,
+            "name": "Bhuna Khichuri",
+            "price": 220,
+            "description": "A hearty and flavorful combination of rice, lentils, and spices",
+            "requiredItems": ["Rice", "Lentils", "Onions", "Ginger-garlic paste", "Spices"],
+            "image": "bhuna_khichuri.jpg"
+         },
+         {
+            "id": 26,
+            "name": "Shorshe Chingri",
+            "price": 280,
+            "description": "Prawns cooked in a tangy mustard sauce",
+            "requiredItems": ["Prawns", "Mustard seeds", "Mustard oil", "Turmeric", "Green chilies"],
+            "image": "shorshe_chingri.jpg"
+         },
+         {
+            "id": 27,
+            "name": "Mishti Doi",
+            "price": 120,
+            "description": "Sweet and creamy yogurt-based dessert",
+            "requiredItems": ["Yogurt", "Sugar", "Cardamom", "Nuts"],
+            "image": "mishti_doi.jpg"
+         }
+      ],
+      "bio": "Chef I is a highly accomplished chef specializing in Bangladeshi cuisine. With 12 years of experience, Chef I creates exceptional dishes like Bhuna Khichuri, Shorshe Chingri, and Mishti Doi. Their culinary prowess and deep understanding of traditional Bangladeshi flavors result in dishes that are a delight to the senses.",
+      "likes": 5600
+   }
+]

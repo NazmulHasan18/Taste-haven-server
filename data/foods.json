@@ -1,0 +1,182 @@
+[
+   {
+      "id": 1,
+      "name": "Hilsa Fish Curry",
+      "description": "Hilsa fish curry is a popular dish in Bengali cuisine. It is made with hilsa fish along with potatoes, eggplant, lentils, green chilies, tomatoes, and various spices, including garlic and ginger, to enhance the flavor.",
+      "category": "Fish",
+      "price": 12.99,
+      "rating": 4.5,
+      "image": "hilsa_fish_curry.jpg"
+   },
+   {
+      "id": 2,
+      "name": "Shorshe Ilish",
+      "description": "Shorshe Ilish is a traditional Bengali dish made with Hilsa fish marinated in a mustard seed paste and cooked in a tangy mustard sauce. It is known for its rich and flavorful taste.",
+      "category": "Fish",
+      "price": 14.99,
+      "rating": 4.8,
+      "image": "shorshe_ilish.jpg"
+   },
+   {
+      "id": 3,
+      "name": "Chingri Macher Malai Curry",
+      "description": "Chingri Macher Malai Curry, also known as Prawn Malai Curry, is a creamy and aromatic Bengali dish made with prawns cooked in a coconut milk-based gravy. It is often served with steamed rice.",
+      "category": "Seafood",
+      "price": 16.99,
+      "rating": 4.7,
+      "image": "chingri_macher_malai_curry.jpg"
+   },
+   {
+      "id": 4,
+      "name": "Shorshe Bata Diye Macher Jhal",
+      "description": "Shorshe Bata Diye Macher Jhal is a spicy fish curry prepared with mustard paste, green chilies, and spices. It is a popular Bengali dish known for its bold flavors.",
+      "category": "Fish",
+      "price": 11.99,
+      "rating": 4.6,
+      "image": "shorshe_bata_diye_macher_jhal.jpg"
+   },
+   {
+      "id": 5,
+      "name": "Aloo Posto",
+      "description": "Aloo Posto is a classic Bengali dish made with potatoes cooked in a poppy seed paste. It is a vegetarian delicacy known for its unique flavor and simplicity.",
+      "category": "Vegetarian",
+      "price": 9.99,
+      "rating": 4.2,
+      "image": "aloo_posto.jpg"
+   },
+   {
+      "id": 6,
+      "name": "Macher Matha Diye Moong Dal",
+      "description": "Macher Matha Diye Moong Dal is a traditional Bengali dish made with split green gram lentils and fish head. It is a flavorful and nutritious preparation.",
+      "category": "Fish",
+      "price": 10.99,
+      "rating": 4.4,
+      "image": "macher_matha_diye_moong_dal.jpg"
+   },
+   {
+      "id": 7,
+      "name": "Kosha Mangsho",
+      "description": "Kosha Mangsho is a slow-cooked Bengali mutton curry known for its intense flavors. The tender pieces of mutton are cooked with a blend of spices and served with steamed rice or Indian bread.",
+      "category": "Non-vegetarian",
+      "price": 18.99,
+      "rating": 4.9,
+      "image": "kosha_mangsho.jpg"
+   },
+   {
+      "id": 8,
+      "name": "Shorshe Maach Bhapa",
+      "description": "Shorshe Maach Bhapa is a steamed fish dish prepared with mustard paste, yogurt, and spices. It is a flavorful and healthy Bengali delicacy.",
+      "category": "Fish",
+      "price": 13.99,
+      "rating": 4.7,
+      "image": "shorshe_maach_bhapa.jpg"
+   },
+   {
+      "id": 9,
+      "name": "Luchi with Cholar Dal",
+      "description": "Luchi with Cholar Dal is a popular Bengali breakfast combination. Luchi is deep-fried puffed bread made from flour, while Cholar Dal is a flavorful lentil preparation made with Bengal gram.",
+      "category": "Vegetarian",
+      "price": 7.99,
+      "rating": 4.5,
+      "image": "luchi_with_cholar_dal.jpg"
+   },
+   {
+      "id": 10,
+      "name": "Bhapa Doi",
+      "description": "Bhapa Doi is a traditional Bengali dessert made by steaming sweetened yogurt. It has a rich and creamy texture and is often flavored with cardamom or saffron.",
+      "category": "Dessert",
+      "price": 6.99,
+      "rating": 4.3,
+      "image": "bhapa_doi.jpg"
+   },
+   {
+      "id": 11,
+      "name": "Shorshe Ilish Biryani",
+      "description": "Shorshe Ilish Biryani is a fragrant rice dish cooked with Hilsa fish, mustard paste, and aromatic spices. It is a unique and delicious Bengali twist on the traditional biryani.",
+      "category": "Fish",
+      "price": 15.99,
+      "rating": 4.8,
+      "image": "shorshe_ilish_biryani.jpg"
+   },
+   {
+      "id": 12,
+      "name": "Misti Doi",
+      "description": "Misti Doi, meaning sweet yogurt, is a popular Bengali dessert made by fermenting sweetened milk. It has a thick and creamy texture and is served chilled.",
+      "category": "Dessert",
+      "price": 5.99,
+      "rating": 4.6,
+      "image": "misti_doi.jpg"
+   },
+   {
+      "id": 13,
+      "name": "Shorshe Bata Diye Bhetki Paturi",
+      "description": "Shorshe Bata Diye Bhetki Paturi is a Bengali delicacy where fillets of Bhetki fish are marinated in a mustard paste, wrapped in banana leaves, and steamed to perfection.",
+      "category": "Fish",
+      "price": 16.99,
+      "rating": 4.7,
+      "image": "shorshe_bata_diye_bhetki_paturi.jpg"
+   },
+   {
+      "id": 14,
+      "name": "Kolkata Biryani",
+      "description": "Kolkata Biryani is a flavorful rice dish made with aromatic spices, basmati rice, and meat (usually chicken or mutton). It has a distinct taste and is garnished with fried onions and boiled eggs.",
+      "category": "Non-vegetarian",
+      "price": 17.99,
+      "rating": 4.5,
+      "image": "kolkata_biryani.jpg"
+   },
+   {
+      "id": 15,
+      "name": "Shorshe Pabda",
+      "description": "Shorshe Pabda is a Bengali fish curry made with Pabda fish cooked in a mustard sauce. The dish is known for its tangy and spicy flavors.",
+      "category": "Fish",
+      "price": 11.99,
+      "rating": 4.4,
+      "image": "shorshe_pabda.jpg"
+   },
+   {
+      "id": 16,
+      "name": "Dhokar Dalna",
+      "description": "Dhokar Dalna is a traditional Bengali dish made with lentil cakes called Dhoka, cooked in a spicy and flavorful gravy made with onions, tomatoes, and spices.",
+      "category": "Vegetarian",
+      "price": 10.99,
+      "rating": 4.2,
+      "image": "dhokar_dalna.jpg"
+   },
+   {
+      "id": 17,
+      "name": "Mutton Rezala",
+      "description": "Mutton Rezala is a rich and aromatic Bengali dish made with tender mutton cooked in a creamy gravy made with yogurt, cashews, and a blend of spices.",
+      "category": "Non-vegetarian",
+      "price": 19.99,
+      "rating": 4.9,
+      "image": "mutton_rezala.jpg"
+   },
+   {
+      "id": 18,
+      "name": "Kanchkolar Kofta Curry",
+      "description": "Kanchkolar Kofta Curry is a delicious Bengali curry made with raw banana (kanchkola) dumplings cooked in a flavorful gravy made with tomatoes, onions, and spices.",
+      "category": "Vegetarian",
+      "price": 8.99,
+      "rating": 4.6,
+      "image": "kanchkolar_kofta_curry.jpg"
+   },
+   {
+      "id": 19,
+      "name": "Macher Jhol",
+      "description": "Macher Jhol is a light and spicy Bengali fish curry made with various fish varieties, vegetables, and spices. It is a comforting and homely dish often enjoyed with steamed rice.",
+      "category": "Fish",
+      "price": 12.99,
+      "rating": 4.3,
+      "image": "macher_jhol.jpg"
+   },
+   {
+      "id": 20,
+      "name": "Mishti Pulao",
+      "description": "Mishti Pulao is a sweet and aromatic Bengali rice dish made with basmati rice, raisins, cashews, and flavored with whole spices. It is often served with rich and creamy Bengali curries.",
+      "category": "Vegetarian",
+      "price": 9.99,
+      "rating": 4.5,
+      "image": "mishti_pulao.jpg"
+   }
+]
