@@ -4,38 +4,38 @@
       "name": "Muhammad Rafi",
       "specialty": "Bangladeshi Cuisine",
       "experience": "12 years",
-      "chefPosition": "Executive Chef",
+      "chefPosition": "Master Chef",
       "image": "https://nationaltoday.com/wp-content/uploads/2021/07/shutterstock_1518533924-min.jpg",
       "foodItems": [
          {
             "id": 1,
-            "name": "Hilsha Fish Curry",
-            "price": 250,
-            "description": "Traditional Bangladeshi curry made with Hilsha fish",
-            "requiredItems": [
-               "Hilsha fish",
-               "Mustard paste",
-               "Turmeric powder",
-               "Green chilies",
-               "Mustard oil"
-            ],
-            "image": "hilsha_fish_curry.jpg"
+            "name": "Biryani",
+            "price": 200,
+            "description": "Fragrant rice dish with meat, spices, and aromatic flavors",
+            "requiredItems": ["Basmati rice", "Meat (chicken or mutton)", "Spices", "Onions", "Ghee"],
+            "cookingMethod": "1. Marinate the meat with spices and yogurt. Cook the rice separately. 2. Layer the meat and rice in a pot. 3. Cook on low heat until meat is tender and flavors are infused. 4. Serve hot with raita and salad.",
+            "rating": 4.5,
+            "image": "biryani.jpg"
          },
          {
             "id": 2,
-            "name": "Beef Bhuna",
+            "name": "Shrimp Curry",
             "price": 180,
-            "description": "Slow-cooked beef in a thick, spicy gravy",
-            "requiredItems": ["Beef", "Onions", "Tomatoes", "Ginger-garlic paste", "Spices"],
-            "image": "beef_bhuna.jpg"
+            "description": "Delicious shrimp curry cooked in a flavorful sauce",
+            "requiredItems": ["Shrimps", "Tomatoes", "Onions", "Ginger-garlic paste", "Spices"],
+            "cookingMethod": "1. Heat oil in a pan and sauté onions, ginger-garlic paste, and spices. 2. Add tomatoes and cook until softened. 3. Add shrimps and simmer until cooked. 4. Garnish with coriander leaves and serve with rice or naan.",
+            "rating": 4.2,
+            "image": "shrimp_curry.jpg"
          },
          {
             "id": 3,
-            "name": "Panta Bhat with Hilsha Fry",
-            "price": 200,
-            "description": "Fermented rice served with fried Hilsha fish",
-            "requiredItems": ["Fermented rice", "Hilsha fish", "Green chilies", "Onions", "Lemon"],
-            "image": "panta_hilsha.jpg"
+            "name": "Rasgulla",
+            "price": 80,
+            "description": "Soft and spongy cottage cheese balls soaked in sugar syrup",
+            "requiredItems": ["Cottage cheese", "Sugar", "Cardamom", "Rose water"],
+            "cookingMethod": "1. Prepare cottage cheese balls from fresh chenna. 2. Boil them in sugar syrup until they double in size. 3. Soak in rose water for a fragrant touch. 4. Serve chilled as a delightful dessert.",
+            "rating": 4.7,
+            "image": "rasgulla.jpg"
          }
       ],
       "bio": "Chef A is a highly skilled chef specializing in Bangladeshi cuisine. With 12 years of experience, Chef A has perfected the art of preparing authentic dishes such as Hilsha Fish Curry, Beef Bhuna, and Panta Bhat with Hilsha Fry. Their dedication to preserving the traditional flavors of Bangladeshi cuisine is unmatched.",
@@ -55,31 +55,32 @@
             "price": 300,
             "description": "Aromatic rice and tender meat slow-cooked together",
             "requiredItems": ["Basmati rice", "Mutton", "Spices", "Onions", "Yogurt"],
-            "image": "kacchi_biriyani.jpg"
+            "cookingMethod": "1. Marinate the meat with spices and yogurt. Cook the rice separately. 2. Layer the marinated meat and rice in a pot. 3. Seal the pot and cook on low heat until meat is tender and flavors are infused. 4. Serve hot with raita and salad.",
+            "rating": 4.6,
+            "image": "kacchi_biryani.jpg"
          },
          {
             "id": 5,
-            "name": "Shorshe Ilish",
-            "price": 280,
-            "description": "Hilsha fish cooked in a tangy mustard sauce",
-            "requiredItems": [
-               "Hilsha fish",
-               "Mustard paste",
-               "Turmeric powder",
-               "Green chilies",
-               "Mustard oil"
-            ],
-            "image": "shorshe_ilish.jpg"
+            "name": "Chicken Bhuna",
+            "price": 180,
+            "description": "Chicken cooked in a thick and spicy gravy",
+            "requiredItems": ["Chicken", "Onions", "Tomatoes", "Ginger-garlic paste", "Spices"],
+            "cookingMethod": "1. Heat oil in a pan and sauté onions until golden brown. 2. Add ginger-garlic paste, tomatoes, and spices. Cook until tomatoes are softened. 3. Add chicken and cook until tender. 4. Garnish with coriander leaves and serve hot with rice or naan.",
+            "rating": 4.3,
+            "image": "chicken_bhuna.jpg"
          },
          {
             "id": 6,
-            "name": "Chingri Malai Curry",
-            "price": 320,
-            "description": "Creamy coconut milk-based curry with succulent prawns",
-            "requiredItems": ["Prawns", "Coconut milk", "Spices", "Onions", "Ginger", "Garlic"],
-            "image": "chingri_malai_curry.jpg"
+            "name": "Rasmalai",
+            "price": 100,
+            "description": "Soft cottage cheese dumplings soaked in sweetened milk",
+            "requiredItems": ["Cottage cheese", "Milk", "Sugar", "Cardamom", "Pistachios"],
+            "cookingMethod": "1. Prepare cottage cheese dumplings and boil them in sugar syrup. 2. Heat milk and simmer until reduced. 3. Add cardamom and the prepared dumplings to the milk. 4. Chill and garnish with pistachios before serving.",
+            "rating": 4.8,
+            "image": "rasmalai.jpg"
          }
       ],
+
       "bio": "Chef B is a talented chef with 8 years of experience in Bangladeshi cuisine. Known for their expertise in preparing flavorful dishes like Kacchi Biriyani, Shorshe Ilish, and Chingri Malai Curry, Chef B brings traditional Bangladeshi flavors to life. Their passion for cooking and attention to detail make every dish a memorable experience.",
       "likes": 4500
    },
@@ -97,15 +98,19 @@
             "price": 180,
             "description": "Aromatic rice and lentil dish cooked with spices",
             "requiredItems": ["Rice", "Lentils", "Onions", "Ghee", "Spices"],
-            "image": "bhuna_khichuri.jpg"
+            "cookingMethod": "1. Wash rice and lentils, and soak them separately. 2. Heat oil in a pot and sauté onions, ginger-garlic paste, and vegetables. 3. Add soaked rice and lentils, along with water and spices. 4. Cook on low heat until rice and lentils are tender. 5. Serve hot with a side of fried egg or pickles.",
+            "rating": 4.4,
+            "image": "khichuri.jpg"
          },
          {
             "id": 8,
-            "name": "Korma",
-            "price": 200,
-            "description": "Rich and creamy meat curry with nuts and yogurt",
-            "requiredItems": ["Meat (chicken or mutton)", "Yogurt", "Onions", "Cashews", "Spices"],
-            "image": "korma.jpg"
+            "name": "Shorshe Ilish",
+            "price": 260,
+            "description": "Hilsa fish cooked in a mustard seed paste",
+            "requiredItems": ["Hilsa fish", "Mustard seeds", "Mustard oil", "Turmeric", "Green chilies"],
+            "cookingMethod": "1. Marinate the fish with turmeric and salt. 2. Grind mustard seeds, green chilies, and turmeric to make a paste. 3. Heat mustard oil in a pan and fry the fish until golden brown. 4. Add the mustard paste and cook until the fish is done. 5. Serve hot with steamed rice.",
+            "rating": 4.7,
+            "image": "shorshe_ilish.jpg"
          },
          {
             "id": 9,
@@ -113,6 +118,8 @@
             "price": 120,
             "description": "Sweet and creamy yogurt-based dessert",
             "requiredItems": ["Yogurt", "Sugar", "Cardamom", "Nuts"],
+            "cookingMethod": "1. Heat milk and simmer until reduced to half. 2. Allow the milk to cool and mix it with yogurt, sugar, and cardamom. 3. Pour the mixture into earthen pots and set aside to ferment overnight. 4. Garnish with nuts before serving chilled.",
+            "rating": 4.6,
             "image": "mishti_doi.jpg"
          }
       ],
@@ -129,27 +136,33 @@
       "foodItems": [
          {
             "id": 10,
-            "name": "Shami Kebab",
-            "price": 150,
-            "description": "Minced meat and lentil patties seasoned with spices",
-            "requiredItems": ["Minced meat", "Chana dal", "Onions", "Ginger-garlic paste", "Spices"],
-            "image": "shami_kebab.jpg"
+            "name": "Chapli Kebab",
+            "price": 180,
+            "description": "Spiced minced meat patties with a flavorful blend of spices",
+            "requiredItems": ["Minced meat", "Onions", "Ginger-garlic paste", "Spices", "Egg"],
+            "cookingMethod": "1. Mix minced meat with onions, ginger-garlic paste, spices, and egg. 2. Shape into flat patties and refrigerate. 3. Cook on a griddle or grill until browned and cooked through. 4. Serve hot with mint chutney and naan bread.",
+            "rating": 4.5,
+            "image": "chapli_kebab.jpg"
          },
          {
             "id": 11,
             "name": "Mutton Rezala",
             "price": 250,
-            "description": "Mutton curry cooked in a rich and aromatic white gravy",
-            "requiredItems": ["Mutton", "Yogurt", "Onions", "Cashews", "Spices"],
+            "description": "Tender mutton cooked in a rich and aromatic white gravy",
+            "requiredItems": ["Mutton", "Onions", "Cashews", "Yogurt", "Spices"],
+            "cookingMethod": "1. Marinate mutton with yogurt and spices. 2. Heat oil in a pan and sauté onions and cashews. 3. Add marinated mutton and cook until tender. 4. Prepare a white gravy with yogurt and spices. 5. Add cooked mutton to the gravy and simmer until flavors meld. 6. Serve hot with naan or rice.",
+            "rating": 4.7,
             "image": "mutton_rezala.jpg"
          },
          {
             "id": 12,
-            "name": "Rasmalai",
-            "price": 120,
-            "description": "Soft cottage cheese dumplings soaked in sweetened milk",
-            "requiredItems": ["Cottage cheese", "Milk", "Sugar", "Cardamom", "Saffron"],
-            "image": "rasmalai.jpg"
+            "name": "Shorshe Ilish",
+            "price": 260,
+            "description": "Hilsa fish cooked in a mustard seed paste",
+            "requiredItems": ["Hilsa fish", "Mustard seeds", "Mustard oil", "Turmeric", "Green chilies"],
+            "cookingMethod": "1. Marinate the fish with turmeric and salt. 2. Grind mustard seeds, green chilies, and turmeric to make a paste. 3. Heat mustard oil in a pan and fry the fish until golden brown. 4. Add the mustard paste and cook until the fish is done. 5. Serve hot with steamed rice.",
+            "rating": 4.9,
+            "image": "shorshe_ilish.jpg"
          }
       ],
       "bio": "Chef D is a talented chef specializing in Bangladeshi cuisine. With 6 years of experience, Chef D excels in preparing flavorful dishes like Shami Kebab, Mutton Rezala, and Rasmalai. Their passion for cooking and attention to detail result in dishes that are both visually appealing and delectable.",
@@ -169,23 +182,29 @@
             "price": 220,
             "description": "Spicy fish curry with a tangy tamarind flavor",
             "requiredItems": ["Fish", "Tamarind paste", "Onions", "Tomatoes", "Spices"],
+            "cookingMethod": "1. Marinate beef with spices, garlic, and ginger. 2. Sauté onions until golden brown. 3. Add marinated beef and cook until tender. 4. Prepare a spice paste with garlic, ginger, and spices. 5. Add the paste to the beef and simmer until flavors meld. 6. Serve hot with rice or naan bread.",
+            "rating": 4.6,
             "image": "bengali_fish_curry.jpg"
          },
          {
             "id": 14,
-            "name": "Aloo Posto",
-            "price": 120,
-            "description": "Potatoes cooked with poppy seed paste and spices",
-            "requiredItems": ["Potatoes", "Poppy seeds", "Mustard oil", "Spices"],
-            "image": "aloo_posto.jpg"
+            "name": "Morog Polao",
+            "price": 280,
+            "description": "Aromatic rice pilaf cooked with chicken and spices",
+            "requiredItems": ["Chicken", "Basmati rice", "Onions", "Ghee", "Spices"],
+            "cookingMethod": "1. Marinate the chicken with spices and yogurt. Cook the rice separately. 2. Layer the marinated chicken and rice in a pot. 3. Seal the pot and cook on low heat until chicken is tender and flavors are infused. 4. Serve hot with raita and salad.",
+            "rating": 4.5,
+            "image": "morog_polao.jpg"
          },
          {
             "id": 15,
-            "name": "Chapati",
-            "price": 50,
-            "description": "Thin unleavened flatbread made with wheat flour",
-            "requiredItems": ["Wheat flour", "Water", "Salt", "Ghee"],
-            "image": "chapati.jpg"
+            "name": "Bhuna Khichuri",
+            "price": 190,
+            "description": "A comforting combination of rice, lentils, and spices",
+            "requiredItems": ["Rice", "Lentils", "Onions", "Ginger-garlic paste", "Mixed vegetables"],
+            "cookingMethod": "1. Wash rice and lentils, and soak them separately. 2. Heat oil in a pot and sauté onions, ginger-garlic paste, and vegetables. 3. Add soaked rice and lentils, along with water and spices. 4. Cook on low heat until rice and lentils are tender. 5. Serve hot with a side of fried egg or pickles.",
+            "rating": 4.4,
+            "image": "bhuna_khichuri.jpg"
          }
       ],
       "bio": "Chef E is a skilled chef specializing in Bangladeshi cuisine. With 9 years of experience, Chef E prepares delicious dishes like Bengali Fish Curry, Aloo Posto, and Chapati. Their passion for traditional Bangladeshi flavors and dedication to culinary excellence shine through in every dish they create.",
@@ -205,6 +224,8 @@
             "price": 300,
             "description": "Tender mutton cooked with aromatic spices and basmati rice",
             "requiredItems": ["Basmati rice", "Mutton", "Spices", "Onions", "Yogurt"],
+            "cookingMethod": "1. Sauté onions and ginger until golden brown. 2. Add spices and cook until fragrant. 3. Add prawns and cook until they turn pink. 4. Pour in coconut milk and simmer until flavors meld. 5. Serve hot with steamed rice or naan bread.",
+            "rating": 4.8,
             "image": "mutton_kacchi.jpg"
          },
          {
@@ -213,15 +234,19 @@
             "price": 240,
             "description": "Fish dumplings in a flavorful gravy",
             "requiredItems": ["Chitol fish", "Onions", "Ginger-garlic paste", "Spices", "Mustard oil"],
+            "cookingMethod": "1. Slice eggplant and sprinkle with turmeric, chili powder, and salt. 2. Heat oil in a pan and fry the eggplant slices until golden and crispy. 3. Drain on paper towels to remove excess oil. 4. Serve hot as a side dish with rice or roti.",
+            "rating": 4.6,
             "image": "chitol_muitha.jpg"
          },
          {
             "id": 18,
-            "name": "Payesh",
-            "price": 100,
-            "description": "Creamy rice pudding with a hint of cardamom",
-            "requiredItems": ["Rice", "Milk", "Sugar", "Cardamom", "Nuts"],
-            "image": "payesh.jpg"
+            "name": "Begun Bhaja",
+            "price": 90,
+            "description": "Crispy fried eggplant slices",
+            "requiredItems": ["Eggplant", "Turmeric", "Chili powder", "Salt", "Oil"],
+            "cookingMethod": "1. Slice eggplant and sprinkle with turmeric, chili powder, and salt. 2. Heat oil in a pan and fry the eggplant slices until golden and crispy. 3. Drain on paper towels to remove excess oil. 4. Serve hot as a side dish with rice or roti.",
+            "rating": 4.6,
+            "image": "begun_bhaja.jpg"
          }
       ],
       "bio": "Chef F is an experienced chef specializing in Bangladeshi cuisine. With 7 years of experience, Chef F creates exquisite dishes like Mutton Kacchi, Chitol Maacher Muitha, and Payesh. Their attention to detail and passion for culinary artistry make them a valuable asset to any kitchen.",
@@ -237,27 +262,33 @@
       "foodItems": [
          {
             "id": 19,
-            "name": "Morog Polao",
-            "price": 280,
-            "description": "Aromatic rice dish with tender chicken and a blend of spices",
-            "requiredItems": ["Basmati rice", "Chicken", "Spices", "Onions", "Ghee"],
-            "image": "morog_polao.jpg"
+            "name": "Shahi Tukra",
+            "price": 120,
+            "description": "Rich and creamy bread pudding with a touch of saffron",
+            "requiredItems": ["Bread slices", "Milk", "Sugar", "Cardamom", "Saffron"],
+            "cookingMethod": "1. Cut bread slices into desired shapes and toast them. 2. Boil milk with sugar, cardamom, and saffron. 3. Dip the toasted bread slices in the flavored milk and arrange them in a serving dish. 4. Pour the remaining milk mixture over the bread slices. 5. Refrigerate until set. 6. Serve chilled, garnished with chopped nuts.",
+            "rating": 4.8,
+            "image": "shahi_tukra.jpg"
          },
          {
             "id": 20,
-            "name": "Shorshe Ilish",
-            "price": 260,
-            "description": "Hilsa fish cooked in a mustard seed paste",
-            "requiredItems": ["Hilsa fish", "Mustard seeds", "Mustard oil", "Turmeric", "Green chilies"],
-            "image": "shorshe_ilish.jpg"
+            "name": "Kacchi Biryani",
+            "price": 350,
+            "description": "Flavorful rice and meat dish cooked in layers",
+            "requiredItems": ["Basmati rice", "Marinated meat", "Yogurt", "Ghee", "Spices"],
+            "cookingMethod": "1. Marinate the meat with yogurt and spices. Parboil the rice separately. 2. Layer the marinated meat and partially cooked rice in a pot. 3. Seal the pot and cook on low heat until the meat is tender and the rice is fully cooked. 4. Serve hot with raita and salad.",
+            "rating": 4.7,
+            "image": "kacchi_biryani.jpg"
          },
          {
             "id": 21,
-            "name": "Rosogolla",
+            "name": "Mishti Doi",
             "price": 80,
-            "description": "Soft and spongy cottage cheese balls soaked in sugar syrup",
-            "requiredItems": ["Cottage cheese", "Sugar", "Cardamom", "Rose water"],
-            "image": "rosogolla.jpg"
+            "description": "Creamy and sweetened yogurt dessert",
+            "requiredItems": ["Yogurt", "Sugar", "Cardamom", "Saffron", "Nuts"],
+            "cookingMethod": "1. Mix yogurt, sugar, cardamom, and saffron in a bowl. 2. Pour the mixture into small clay pots or serving bowls. 3. Garnish with chopped nuts. 4. Keep the pots in a warm place for several hours until the yogurt sets and turns slightly tangy. 5. Refrigerate and serve chilled.",
+            "rating": 4.5,
+            "image": "mishti_doi.jpg"
          }
       ],
       "bio": "Chef G is a highly skilled chef specializing in Bangladeshi cuisine. With 11 years of experience, Chef G creates extraordinary dishes like Morog Polao, Shorshe Ilish, and Rosogolla. Their culinary expertise and creative flair ensure that every dish is a delightful combination of flavors and textures.",
@@ -273,27 +304,33 @@
       "foodItems": [
          {
             "id": 22,
-            "name": "Dhaka Biriyani",
-            "price": 320,
-            "description": "Flavorful rice dish with tender meat, aromatic spices, and potatoes",
-            "requiredItems": ["Basmati rice", "Meat (chicken or mutton)", "Spices", "Potatoes", "Onions"],
-            "image": "dhaka_biriyani.jpg"
+            "name": "Panta Bhat",
+            "price": 60,
+            "description": "Fermented rice dish served with assorted sides",
+            "requiredItems": ["Fermented rice", "Water", "Onion", "Green chili", "Lemon"],
+            "cookingMethod": "1. Soak fermented rice in water overnight. 2. Drain excess water and mash the rice with a fork. 3. Serve the mashed rice with sliced onions, green chili, and a squeeze of lemon. 4. Accompany with fried fish, pickles, and fritters for a complete meal.",
+            "rating": 4.2,
+            "image": "panta_bhat.jpg"
          },
          {
             "id": 23,
-            "name": "Chingri Bhapa",
-            "price": 280,
-            "description": "Steamed prawns cooked in a spicy coconut mustard sauce",
-            "requiredItems": ["Prawns", "Coconut", "Mustard seeds", "Green chilies", "Spices"],
-            "image": "chingri_bhapa.jpg"
+            "name": "Kalo Jeera Bhaja",
+            "price": 70,
+            "description": "Roasted black cumin seeds for garnishing",
+            "requiredItems": ["Black cumin seeds", "Oil", "Salt"],
+            "cookingMethod": "1. Heat oil in a pan. 2. Add black cumin seeds and roast them until they release a nutty aroma. 3. Sprinkle salt and continue to roast for a few more seconds. 4. Remove from heat and let it cool. 5. Use as a garnish for various dishes like dal, vegetables, or raita.",
+            "rating": 4.4,
+            "image": "kalo_jeera_bhaja.jpg"
          },
          {
             "id": 24,
-            "name": "Lassi",
-            "price": 100,
-            "description": "Refreshing yogurt-based drink with flavors of cardamom and saffron",
-            "requiredItems": ["Yogurt", "Sugar", "Cardamom", "Saffron", "Nuts"],
-            "image": "lassi.jpg"
+            "name": "Shorshe Ilish",
+            "price": 420,
+            "description": "Hilsa fish cooked in mustard sauce",
+            "requiredItems": ["Hilsa fish", "Mustard paste", "Turmeric", "Green chili", "Mustard oil"],
+            "cookingMethod": "1. Marinate hilsa fish with turmeric and salt. 2. Heat mustard oil in a pan and fry the fish until golden brown. 3. In the same pan, add mustard paste, turmeric, green chili, and a little water. 4. Cook until the sauce thickens and the fish is fully cooked. 5. Serve hot with steamed rice.",
+            "rating": 4.9,
+            "image": "shorshe_ilish.jpg"
          }
       ],
       "bio": "Chef H is a talented chef specializing in Bangladeshi cuisine. With 8 years of experience, Chef H crafts exquisite dishes like Dhaka Biriyani, Chingri Bhapa, and Lassi. Their culinary finesse and dedication to authentic flavors make them a valuable addition to any kitchen.",
@@ -309,27 +346,33 @@
       "foodItems": [
          {
             "id": 25,
-            "name": "Bhuna Khichuri",
-            "price": 220,
-            "description": "A hearty and flavorful combination of rice, lentils, and spices",
-            "requiredItems": ["Rice", "Lentils", "Onions", "Ginger-garlic paste", "Spices"],
-            "image": "bhuna_khichuri.jpg"
+            "name": "Chomchom",
+            "price": 100,
+            "description": "Spongy and syrup-soaked sweet delicacy",
+            "requiredItems": ["Chhana", "Sugar", "Water", "Cardamom", "Pistachios"],
+            "cookingMethod": "1. Knead chhana (cottage cheese) into a smooth dough. 2. Shape the dough into small cylindrical rolls. 3. Boil sugar, water, and cardamom to make the syrup. 4. Drop the chhana rolls into the boiling syrup and simmer until they absorb the syrup. 5. Garnish with crushed pistachios. 6. Serve chilled.",
+            "rating": 4.7,
+            "image": "chomchom.jpg"
          },
          {
             "id": 26,
-            "name": "Shorshe Chingri",
-            "price": 280,
-            "description": "Prawns cooked in a tangy mustard sauce",
-            "requiredItems": ["Prawns", "Mustard seeds", "Mustard oil", "Turmeric", "Green chilies"],
-            "image": "shorshe_chingri.jpg"
+            "name": "Bhorta",
+            "price": 80,
+            "description": "Mashed vegetable or fish dish",
+            "requiredItems": ["Vegetable or fish of choice", "Onion", "Garlic", "Green chili", "Mustard oil"],
+            "cookingMethod": "1. Boil the vegetable or fish until tender. 2. Mash the boiled vegetable or fish with a fork. 3. In a pan, heat mustard oil and add chopped onion, garlic, and green chili. 4. Fry until the onion turns golden brown. 5. Add the mashed vegetable or fish and mix well. 6. Serve as a side dish with rice or roti.",
+            "rating": 4.6,
+            "image": "bhorta.jpg"
          },
          {
             "id": 27,
-            "name": "Mishti Doi",
-            "price": 120,
-            "description": "Sweet and creamy yogurt-based dessert",
-            "requiredItems": ["Yogurt", "Sugar", "Cardamom", "Nuts"],
-            "image": "mishti_doi.jpg"
+            "name": "Kachchi Pantha",
+            "price": 70,
+            "description": "Traditional fermented drink made from rice",
+            "requiredItems": ["Rice", "Water", "Yogurt", "Salt", "Mustard oil"],
+            "cookingMethod": "1. Soak rice in water overnight. 2. Drain the water and let the rice air-dry for a few hours. 3. Grind the rice to a coarse powder. 4. Mix the rice powder with yogurt, salt, and water to make a thick batter. 5. Keep the batter in a covered container for fermentation, usually overnight. 6. Serve chilled with a drizzle of mustard oil.",
+            "rating": 4.3,
+            "image": "kachchi_pantha.jpg"
          }
       ],
       "bio": "Chef I is a highly accomplished chef specializing in Bangladeshi cuisine. With 12 years of experience, Chef I creates exceptional dishes like Bhuna Khichuri, Shorshe Chingri, and Mishti Doi. Their culinary prowess and deep understanding of traditional Bangladeshi flavors result in dishes that are a delight to the senses.",
@@ -345,27 +388,33 @@
       "foodItems": [
          {
             "id": 28,
-            "name": "Bhuna Khichuri",
-            "price": 220,
-            "description": "A hearty and flavorful combination of rice, lentils, and spices",
-            "requiredItems": ["Rice", "Lentils", "Onions", "Ginger-garlic paste", "Spices"],
-            "image": "bhuna_khichuri.jpg"
+            "name": "Shakshuka",
+            "price": 120,
+            "description": "Eggs cooked in a flavorful tomato sauce",
+            "requiredItems": ["Eggs", "Tomatoes", "Onion", "Garlic", "Bell peppers"],
+            "cookingMethod": "1. Sauté chopped onion, garlic, and bell peppers in a pan. 2. Add diced tomatoes and cook until they soften. 3. Make wells in the tomato sauce and crack eggs into them. 4. Cover the pan and cook until the eggs are done to your liking. 5. Season with salt, pepper, and herbs. 6. Serve hot with crusty bread.",
+            "rating": 4.8,
+            "image": "shakshuka.jpg"
          },
          {
             "id": 29,
-            "name": "Shorshe Chingri",
-            "price": 280,
-            "description": "Prawns cooked in a tangy mustard sauce",
-            "requiredItems": ["Prawns", "Mustard seeds", "Mustard oil", "Turmeric", "Green chilies"],
-            "image": "shorshe_chingri.jpg"
+            "name": "Chingri Malaikari",
+            "price": 320,
+            "description": "Creamy coconut-based prawn curry",
+            "requiredItems": ["Prawns", "Coconut milk", "Onion", "Ginger", "Spices"],
+            "cookingMethod": "1. Sauté chopped onion and ginger in a pan. 2. Add spices and cook until fragrant. 3. Add prawns and cook until they turn pink. 4. Pour in coconut milk and simmer until the curry thickens. 5. Adjust seasoning and garnish with cilantro. 6. Serve hot with steamed rice or naan.",
+            "rating": 4.7,
+            "image": "chingri_malaikari.jpg"
          },
          {
             "id": 30,
-            "name": "Mishti Doi",
-            "price": 120,
-            "description": "Sweet and creamy yogurt-based dessert",
-            "requiredItems": ["Yogurt", "Sugar", "Cardamom", "Nuts"],
-            "image": "mishti_doi.jpg"
+            "name": "Shami Kebab",
+            "price": 150,
+            "description": "Minced meat patties flavored with spices",
+            "requiredItems": ["Minced meat", "Chickpeas", "Onion", "Ginger-garlic paste", "Spices"],
+            "cookingMethod": "1. Soak chickpeas in water overnight and boil until tender. 2. In a food processor, blend boiled chickpeas, minced meat, onion, ginger-garlic paste, and spices. 3. Shape the mixture into patties. 4. Shallow fry the patties until golden brown on both sides. 5. Serve hot with mint chutney or as a filling in sandwiches.",
+            "rating": 4.5,
+            "image": "shami_kebab.jpg"
          }
       ],
       "bio": "Chef I is a highly accomplished chef specializing in Bangladeshi cuisine. With 12 years of experience, Chef I creates exceptional dishes like Bhuna Khichuri, Shorshe Chingri, and Mishti Doi. Their culinary prowess and deep understanding of traditional Bangladeshi flavors result in dishes that are a delight to the senses.",
